@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://www.zeroturnaround.com">
+  <classpath>
+    <dir name="D:\oxkart\hybris\bin\custom\MARVEL_DEVELOPERS\oxkartbackoffice/backoffice/classes" />
+  </classpath>
+</application>
