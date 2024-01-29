@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+ Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
+--><extensioninfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="extensioninfo.xsd">
+        	
+    
+    <extension abstractclassprefix="Generated" classprefix="OxkartFulfilmentProcess" managername="OxkartFulfilmentProcessManager" managersuperclass="de.hybris.platform.jalo.extension.Extension" name="oxkartfulfilmentprocess">
+                		
+        
+        <requires-extension name="acceleratorservices"/>
+                		
+        
+        <requires-extension name="ticketsystem"/>
+                		
+        
+        <coremodule generated="true" manager="com.oxkart.fulfilmentprocess.jalo.OxkartFulfilmentProcessManager" packageroot="com.oxkart.fulfilmentprocess"/>
+                		
+        
+        <meta key="extgen-template-extension" value="true"/>
+                		
+        
+        	
+    
+    </extension>
+        
+
+</extensioninfo>
