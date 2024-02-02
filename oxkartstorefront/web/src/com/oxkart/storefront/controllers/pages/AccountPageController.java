@@ -195,6 +195,8 @@ public class AccountPageController extends AbstractSearchPageController
 	@Resource(name = "addressDataUtil")
 	private AddressDataUtil addressDataUtil;
 
+	private Map<String, String> isAnonymous;
+
 	protected PasswordValidator getPasswordValidator()
 	{
 		return passwordValidator;
